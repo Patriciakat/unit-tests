@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.academy2024.task4.PersonalCodeValidatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-04-03T20:23:35" hostname="LAPTOP-30UGBVAB" time="0.042">
+<testsuite name="com.academy2024.task4.PersonalCodeValidatorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-04-04T18:15:53" hostname="LAPTOP-30UGBVAB" time="0.1">
   <properties/>
-  <testcase name="[1] 4950801123" classname="com.academy2024.task4.PersonalCodeValidatorTest" time="0.033"/>
+  <testcase name="personal_code_validator_should_print_female_born_1995()" classname="com.academy2024.task4.PersonalCodeValidatorTest" time="0.032"/>
+  <testcase name="personal_code_validator_should_print_female_born_1999()" classname="com.academy2024.task4.PersonalCodeValidatorTest" time="0.002"/>
+  <testcase name="personal_code_validator_should_print_male_born_1999()" classname="com.academy2024.task4.PersonalCodeValidatorTest" time="0.001"/>
+  <testcase name="personal_code_validator_should_print_male_born_2020()" classname="com.academy2024.task4.PersonalCodeValidatorTest" time="0.001"/>
+  <testcase name="personal_code_validator_should_print_male_born_2022()" classname="com.academy2024.task4.PersonalCodeValidatorTest" time="0.001"/>
+  <testcase name="[1] 4950801123" classname="com.academy2024.task4.PersonalCodeValidatorTest" time="0.018"/>
   <testcase name="[2] 5220229123" classname="com.academy2024.task4.PersonalCodeValidatorTest" time="0.001"/>
-  <testcase name="[3] 89508011234" classname="com.academy2024.task4.PersonalCodeValidatorTest" time="0.002"/>
+  <testcase name="[3] 89508011234" classname="com.academy2024.task4.PersonalCodeValidatorTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
